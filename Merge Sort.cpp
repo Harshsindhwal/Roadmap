@@ -1,4 +1,4 @@
-#Merge Sort
+//Merge Sort
 #include <bits/stdc++.h>
 
 using namespace std;
